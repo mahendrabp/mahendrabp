@@ -29,7 +29,7 @@
 - Writing & Blogging
 - Music : Piano
 
-## 📬 Get in Touch :
+### 📬 Get in Touch :
 
 - Site : [mahendrabp.github.io](https://mahendrabp.github.io)
 - GitHub : [github.com/mahendrabp](https://github.com/mahendrabp)
@@ -37,7 +37,10 @@
 - Twitter : [@]()
 - Telegram : [@]()
 
-![Bima's github stats](https://github-readme-stats.vercel.app/api?username=mahendrabp&show_icons=true&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendrabp&show_icons=true&hide_border=true" alt="mahendrabp's github stats">
+</div>
+<br>
 
 [github]: https://github.com/mahendrabp
 [site]: https://mahendrabp.github.io

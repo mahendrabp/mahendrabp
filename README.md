@@ -2,11 +2,11 @@
 
 ### 🤵 About Me
 
-- 🔭 I’m currently working for a fintech startup based in Indonesia as **_Backend Developer_**. Where i make financial applications & services primarily using node.js, php, vue and sql server
+- 🔭 I’m currently working for a fintech startup based in Indonesia as **_Backend Developer_**. Where i make financial applications & services primarily using node.js, php, golang and sql server
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily `.php`,` .js`, `.sql`
 <!-- - 🎓 Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.86/4.0 -->
-- 🌱 I’m currently learning **Backend Technologies** and **Piano**
+- 🌱 I’m currently learning **Backend Technologies** and **Cloud Computing**
 - 💬 Let's talk about music, cat, tech, blockchain, and other stuff just what you want
 - 😄 Pronouns: He/Him
 - 👯 We can connect to play some games like Arena of Valor maybe
@@ -24,7 +24,7 @@
 
 ### 📖 Currently Learning
 
-- Dive deeper learn Golang & Backend Development more advance
+- Dive deeper learn Golang, Backend Development more advance & cloud computing
 - Design Pattern & Clean Code
 - Writing & Blogging
 - Music : Piano

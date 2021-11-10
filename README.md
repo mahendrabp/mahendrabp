@@ -14,12 +14,12 @@
 
 ### 🛠 Tech Stack
 
-- PHP : Laravel
+- PHP : Laravel & Lumen
 - Javascript : Node.js & Express
-- Golang : Gin & Fiber
+- Golang : Gin, Fiber & Echo
 - Frontend Side : HTML, CSS, Bootstrap, Tailwind & Vue.js
 - Database : SQL Server, MySQL & PostgreSQL
-- Infra : GCS, Vultr, Heroku & Linux
+- Infra : GCS, Vultr, AWS, Heroku & Linux
 - Tools : VS Code, Postman, VCS(Git), DBeaver, Spotify etc
 
 ### 📖 Currently Learning
@@ -27,7 +27,7 @@
 - Dive deeper learn Golang, Backend Development more advance & cloud computing
 - Design Pattern & Clean Code
 - Writing & Blogging
-- Music : Piano
+- Musical Instrument
 
 ### 📬 Get in Touch :
 
@@ -47,4 +47,4 @@
 
 ---
 
-© 2020 — Mahendra Bimantara Putra
+© 2021 — Mahendra Bimantara Putra

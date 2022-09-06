@@ -15,11 +15,11 @@
 ### 🛠 Tech Stack
 
 - PHP : Laravel & Lumen
-- Javascript : Node.js & Express
+- Javascript/Typescript : Node.js & Express.js
 - Golang : Gin, Fiber & Echo
 - Frontend Side : HTML, CSS, Bootstrap, Tailwind & Vue.js
 - Database : SQL Server, MySQL & PostgreSQL
-- Infra : GCS, Vultr, AWS, Heroku & Linux
+- Infra : GCP, Vultr, AWS, & Linux
 - Tools : VS Code, Postman, VCS(Git), DBeaver, Spotify etc
 
 ### 📖 Currently Learning
